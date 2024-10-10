@@ -1,5 +1,5 @@
 {
-  "tags": [
+  "tags": {
     {"tag": "Non-Content Type Specific", "tag_category": "Non-Content Type Specific"},
     {"tag": "Paid Search Ad Copy", "tag_category": "Ad Copy"},
     {"tag": "Paid Social Ad Copy", "tag_category": "Ad Copy"},
@@ -23,5 +23,5 @@
     {"tag": "Live-streamed Workshop", "tag_category": "Event Content"},
     {"tag": "On-demand Demo", "tag_category": "Event Content"},
     {"tag": "On-demand Webinar", "tag_category": "Event Content"}
-  ]
+}
 }
