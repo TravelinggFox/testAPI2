@@ -27,5 +27,34 @@
         "On-demand Webinar": {"name": "On-demand Webinar", "tag_category": "Event Content"}
       }
     }
+  ],
+  "tags2": [
+    {
+      "data": {
+        "Non-Content Type Specific": {"id": "Non-Content Type Specific", "tag_category": "Non-Content Type Specific"},
+        "Paid Search Ad Copy": {"id": "Paid Search Ad Copy", "tag_category": "Ad Copy"},
+        "Paid Social Ad Copy": {"id": "Paid Social Ad Copy", "tag_category": "Ad Copy"},
+        "Print Ad Copy": {"id": "Print Ad Copy", "tag_category": "Ad Copy"},
+        "Audiogram": {"id": "Audiogram", "tag_category": "Audio"},
+        "Live Read": {"id": "Live Read", "tag_category": "Audio"},
+        "Podcast": {"id": "Podcast", "tag_category": "Audio"},
+        "Spot Ad": {"id": "Spot Ad", "tag_category": "Audio"},
+        "Direct Mail Flyer": {"id": "Direct Mail Flyer", "tag_category": "Direct Mail"},
+        "Direct Mail Letter": {"id": "Direct Mail Letter", "tag_category": "Direct Mail"},
+        "Postcard": {"id": "Postcard", "tag_category": "Direct Mail"},
+        "Email Body Copy": {"id": "Email Body Copy", "tag_category": "Email"},
+        "Email Template": {"id": "Email Template", "tag_category": "Email"},
+        "Event Keynote": {"id": "Event Keynote", "tag_category": "Event Content"},
+        "Event Presentation": {"id": "Event Presentation", "tag_category": "Event Content"},
+        "Event Recap": {"id": "Event Recap", "tag_category": "Event Content"},
+        "In-person Demo": {"id": "In-person Demo", "tag_category": "Event Content"},
+        "In-person Workshop": {"id": "In-person Workshop", "tag_category": "Event Content"},
+        "Live-streamed Webinar": {"id": "Live-streamed Webinar", "tag_category": "Event Content"},
+        "Live-streamed Demo": {"id": "Live-streamed Demo", "tag_category": "Event Content"},
+        "Live-streamed Workshop": {"id": "Live-streamed Workshop", "tag_category": "Event Content"},
+        "On-demand Demo": {"id": "On-demand Demo", "tag_category": "Event Content"},
+        "On-demand Webinar": {"id": "On-demand Webinar", "tag_category": "Event Content"}
+      }
+    }
   ]
 }
