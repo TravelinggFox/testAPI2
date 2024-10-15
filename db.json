@@ -1,29 +1,5 @@
 {
-  "tags": {
-    "Non-Content Type Specific":{"name": "Non-Content Type Specific", "tag_category": "Non-Content Type Specific"},
-    "Paid Search Ad Copy":{"name": "Paid Search Ad Copy", "tag_category": "Ad Copy"},
-    "Print Ad Copy":{"name": "Print Ad Copy", "tag_category": "Ad Copy"},
-    "Audiogram":{"name": "Audiogram", "tag_category": "Audio"},
-    "Live Read":{"name": "Live Read", "tag_category": "Audio"},
-    "Podcast":{"name": "Podcast", "tag_category": "Audio"},
-    "Spot Ad":{"name": "Spot Ad", "tag_category": "Audio"},
-    "Direct Mail Flyer":{"name": "Direct Mail Flyer", "tag_category": "Direct Mail"},
-    "Direct Mail Letter":{"name": "Direct Mail Letter", "tag_category": "Direct Mail"},
-    "Postcard":{"name": "Postcard", "tag_category": "Direct Mail"},
-    "Email Body Copy":{"name": "Email Body Copy", "tag_category": "Email"},
-    "Email Template":{"name": "Email Template", "tag_category": "Email"},
-    "Event Keynote":{"name": "Event Keynote", "tag_category": "Event Content"},
-    "Event Presentation":{"name": "Event Presentation", "tag_category": "Event Content"},
-    "Event Recap":{"name": "Event Recap", "tag_category": "Event Content"},
-    "In-person Demo":{"name": "In-person Demo", "tag_category": "Event Content"},
-    "In-person Workshop":{"name": "In-person Workshop", "tag_category": "Event Content"},
-    "Live-streamed Webinar":{"name": "Live-streamed Webinar", "tag_category": "Event Content"},
-    "Live-streamed Demo":{"name": "Live-streamed Demo", "tag_category": "Event Content"},
-    "Live-streamed Workshop":{"name": "Live-streamed Workshop", "tag_category": "Event Content"},
-    "On-demand Demo":{"name": "On-demand Demo", "tag_category": "Event Content"},
-    "On-demand Webinar":{"name": "On-demand Webinar", "tag_category": "Event Content"}
-},
-  "tags2": [
+    "tags2": [
     {"tag_category": "App Engine", "id": "App Engine Studio"},
     {"tag_category": "App Engine", "id": "App Engine Management Center"},
     {"tag_category": "Automation Engine", "id": "Boomi API Management"},
