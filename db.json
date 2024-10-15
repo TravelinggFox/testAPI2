@@ -28,7 +28,6 @@
     {"tag_category": "App Engine", "id": "App Engine Management Center"},
     {"tag_category": "Automation Engine", "id": "Boomi API Management"},
     {"tag_category": "Automation Engine", "id": "Document Intelligence"},
-    {"tag_category": "Cloud Observability", "id": "Cloud Observability"},
     {"tag_category": "CSM", "id": "CSM Configurable Workspace"},
     {"tag_category": "CSM", "id": "Financial Services Operations for Banking"},
     {"tag_category": "Finance", "id": "Finance"},
